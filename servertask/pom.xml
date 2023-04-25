@@ -45,7 +45,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalNames>servertask</finalNames>finalName>
+		<finalNames>servertask</finalNames>
 	</build>
 
 </project>
