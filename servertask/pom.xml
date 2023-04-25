@@ -45,7 +45,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalNames>kaiburr-ci-cd</finalNames>finalName>
+		<finalNames>servertask</finalNames>finalName>
 	</build>
 
 </project>
