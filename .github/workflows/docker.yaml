@@ -1,0 +1,16 @@
+name: CI/CD Pipeline
+on:
+  push:
+    branches:
+      - main
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Build app
+      run: mvn clean install -X
+    - name: Start app
+      run: java -jar target/servertask.jar
+
