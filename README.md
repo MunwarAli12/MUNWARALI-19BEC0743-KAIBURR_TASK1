@@ -1,4 +1,4 @@
-# Tools Used (Task- 1)
+# Tech Used (Task- 1)
 - spring-tool-suite 4-4.48.0(IDE)
 - postman
 - mongodb databse
