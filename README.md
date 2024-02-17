@@ -65,27 +65,29 @@ crud operator: http:localhost:8080/
 
 > For detailed input and output images, please refer to the servertask directory in the following repository: [Server Task Output Images](https://github.com/MunwarAli12/model-java_REST-API_web_application-/tree/main/servertask/output_images)
 
-#### SPRING_BOOT_SUITE:
+#### SpringBoot_App
 
 ![spring_boot_suite](https://user-images.githubusercontent.com/126280146/228462477-3c3b7667-bb26-4f6a-bd2a-5b46bd3a067f.png)
 
-#### POSTMAN_POST:
+#### POSTMAN PostMapping
 
 ![postman_post](https://user-images.githubusercontent.com/126280146/228462546-8894af44-b288-4814-8673-45afdf237053.png)
 
-#### POSTMAN_PUT:
+#### POSTMAN PutMapping
 
 ![postman_put](https://user-images.githubusercontent.com/126280146/228462618-202a2832-7305-4821-b78a-b1cb174351a4.png)
 
-#### POSTMAN_GET:
+#### POSTMAN GetMapping
 
 ![postman_get_](https://user-images.githubusercontent.com/126280146/228462699-e547219d-9152-4b4c-a9f4-dfa986049f4e.png)
 
-#### POSTMAN_GET_ID:
+#### POSTMAN GetMapping By Id
 
 ![postman_get_id](https://user-images.githubusercontent.com/126280146/228462825-c8b2e69c-dfd9-469a-802c-fef182bd177d.png)
 
-#### DATABASE:![mongodb](https://user-images.githubusercontent.com/126280146/228462873-3b3e576d-da79-4a9e-8973-03835aaab107.png)
+#### DATABASE 
+
+![mongodb](https://user-images.githubusercontent.com/126280146/228462873-3b3e576d-da79-4a9e-8973-03835aaab107.png)
 
 ![Saved_Server with diff ID](https://user-images.githubusercontent.com/126280146/228462915-c66c3f29-d6b2-4525-9107-7526e26b624c.png)
 
