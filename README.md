@@ -42,18 +42,23 @@
 
 - The application interacts efficiently with the MongoDB database, offering a reliable means to manage server objects via a RESTful interface.
 
-### End Points,
+##### End Points,
 
-| Endpoint                  | Description                                                            |
-|---------------------------|------------------------------------------------------------------------|
-| GET /findAllServers       | Retrieve all servers                                                  |
-| GET /findServerById/{id}  | Retrieve a server by its ID                                           |
-| GET /findServerByFramework/{framework} | Retrieve servers by framework                         |
-| GET /findServerByLanguage/{language}   | Retrieve servers by programming language             |
-| GET /findServerByName/{name}           | Retrieve servers by name                              |
-| PUT /findAllServers1       | Retrieve all servers (alternative endpoint)                           |
-| POST /addServer           | Add a new server                                                      |
-| DELETE /deleteServer/{id} | Delete a server by its ID                                             |
+```javascript
+crud operator: http:localhost:8080/
+```
+
+
+| Method | Endpoint                           | Description                               |
+|--------|------------------------------------|-------------------------------------------|
+| GET    | /findAllServers                   | Retrieve all servers                      |
+| GET    | /findServerById/{id}              | Retrieve a server by its ID               |
+| GET    | /findServerByFramework/{framework}| Retrieve servers by framework             |
+| GET    | /findServerByLanguage/{language}  | Retrieve servers by programming language |
+| GET    | /findServerByName/{name}          | Retrieve servers by name                  |
+| PUT    | /findAllServers1                  | Retrieve all servers (alternative endpoint)|
+| POST   | /addServer                        | Add a new server                          |
+| DELETE | /deleteServer/{id}                | Delete a server by its ID                 |
 
 
 #### Note:
