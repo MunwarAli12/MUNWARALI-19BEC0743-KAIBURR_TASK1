@@ -20,9 +20,14 @@
 
 - contains this string and return one or more servers found. Return 404 if nothing is found. “Server” objects should be stored in MongoDB database. Be sure that you can show how your application responds to requests using postman, curl or any other HTTP client.
 
-## Tech and Tool Used,
+### Technologies and Tools Used:
 
- `Java`  `spring-tool-suite 4-4.48.0(IDE)`  `mongodb databse`   `postman`
+- `Java:` `Implemented the backend REST API.`
+- `Spring Framework:` `Utilized for backend development.`
+- `MongoDB Database:` `Used as storage for server records.`
+- `Spring Tool Suite:` `Chosen IDE for Angular development.`
+- `Postman:` `Used for testing API endpoints during development.`
+
 
 ### Java REST API Application Overview
 
