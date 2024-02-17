@@ -26,7 +26,7 @@
 
 ### Java REST API Application Overview
 
-- This Java application, built using Spring Boot, provides a REST API for managing server objects.
+- This Java application, Built using Spring MVC(Model-View-Controller design pattern) and Spring Boot., provides a REST API for managing server objects.
 
 - The API supports various operations:
   - Retrieving all servers or a single server by ID.
